@@ -5,6 +5,7 @@
 - Vue.js 3
 - TypeScript
 - Vite
+- Jest
 
 
 ## Features
