@@ -1,11 +1,8 @@
-# Todos App
-> based on vite project
+# Login Page
+
+> Practice for Tailwind CSS
 
 ## Use
-- Vue.js 3
-- TypeScript
-- Vite
-- Jest
 
-
-## Features
+- Next.js
+- Tailwind CSS

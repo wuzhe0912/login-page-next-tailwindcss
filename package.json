@@ -1,22 +1,19 @@
 {
-  "name": "vue3-todos-app",
-  "version": "0.0.0",
+  "name": "login-page-next-tailwindcss",
+  "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
-    "serve": "vite preview",
-    "test:unit": "jest"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "next": "12.0.10",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.24",
-    "@vitejs/plugin-vue": "^1.3.0",
-    "@vue/compiler-sfc": "^3.0.5",
-    "jest": "^27.0.6",
-    "typescript": "^4.3.2",
-    "vite": "^2.4.4",
-    "vue-tsc": "^0.2.2"
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.10"
   }
 }
